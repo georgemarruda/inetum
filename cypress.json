@@ -1,0 +1,14 @@
+{
+    "$schema": "https://raw.githubusercontent.com/cypress-io/cypress/develop/cli/schema/cypress.schema.json",
+    "baseUrl": "http://automationpractice.com",
+    "video": false,
+    "experimentalSourceRewriting": true,
+    "viewportHeight": 960,
+    "viewportWidth": 1536,
+    "watchForFileChanges": false,
+    "chromeWebSecurity": false,
+    "pageLoadTimeout": 60000,
+    "defaultTimeout": 10000,
+    "defaultCommandTimeout": 10000,
+    "screenshotOnRunFailure": false
+}
